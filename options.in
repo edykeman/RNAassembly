@@ -1,0 +1,15 @@
+dec.parm      #Parameter File
+dec.hmap      #Hamiltonian NMap
+seqWT.rna     #RNA Sequence Data
+dec.out       #Output Data File
+2048          #Number of RNAs
+24576         #Number of CPs
+0.70          #Volume (cubic uM)
+298.15        #Temperature (K)
+1.0d6         #CP A/B Rate (1/s)
+1.0d6         #CP C/C Rate (1/Ms)
+1.0d3         #AutoSteric Rate (1/Ms)
+1.5d7         #RNA Folding Rate
+0.000         #Current Time (sec)
+10.000        #Final Time (sec)
+681293        #Seed for Random Number
